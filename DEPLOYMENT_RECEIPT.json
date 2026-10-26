@@ -1,0 +1,14 @@
+{
+  "project": "hipparchus-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "HPKiopDnxzewcQ82wtiT21JGS5xXVjjo8bCm56nYXqh8",
+  "vault_account": "EvMnBn2xWUj6draU1Di1AYhDVqMHLd7yEzsJaqubj9rS",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "33hUt7ZRCdCdpQAGGYkXmqtg5dHeugNEurERHwDjW5XeGzbr4jBbuYtPV6wSLXes3gDwg5MeeXyZCD5cYYnyBLE1",
+  "account_tx": "4X21WERT2jQgvQbmCiUVqz2zSDjhgGYSerR4uzG1nBU7CVhJwcErEEnWbpDdUunijxoa92Y4rxJEwC5G4VxuhYdf",
+  "mint_tx": "51YBk78KMW9834SUpYst1rxPDn8tujysKq4WiwKXkVefQkuRSmQ3tMFnqEdE3FmiCuGRdPGbH18PaTLffLUTzsbj",
+  "solana_explorer_mint": "https://explorer.solana.com/address/HPKiopDnxzewcQ82wtiT21JGS5xXVjjo8bCm56nYXqh8?cluster=devnet",
+  "timestamp": "2026-10-26 16:38:24 UTC"
+}
